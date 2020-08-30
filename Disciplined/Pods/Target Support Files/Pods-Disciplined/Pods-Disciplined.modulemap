@@ -1,0 +1,6 @@
+framework module Pods_Disciplined {
+  umbrella header "Pods-Disciplined-umbrella.h"
+
+  export *
+  module * { export * }
+}
